@@ -1,5 +1,3 @@
-# Example Package
+# Person Cache
 
-This is a simple example package. You can use
-[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+Cache para aplicacoes python com Redis ou em Memoria
