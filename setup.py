@@ -3,7 +3,10 @@ from setuptools import setup, find_packages
 setup(
     name='person_cache',
     packages=['person_cache'],
-    version='0.0.1',   
+    long_description=open("README.md").read().strip(),
+    long_description_content_type="text/markdown",
+    version='1.0.0',
+    url="https://github.com/tiagoBarbano/person_cache",
     author="Tiago Ventura",
     author_email="tiago.barbano@gmail.com",
     description="Simple caching library for Python",
